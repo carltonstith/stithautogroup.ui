@@ -1,0 +1,64 @@
+{
+    "VehicleDataTable": [
+        {
+            "vehicleId": 1,
+            "make": "Toyota",
+            "model": "Camry",
+            "year": 2021,
+            "color": "Blue",
+            "available": true,
+            "customerId": 3,
+            "miles": ""
+        },
+        {
+            "vehicleId": 2,
+            "make": "Honda",
+            "model": "Civic",
+            "year": 2020,
+            "color": "Black",
+            "available": false,
+            "customerId": 1,
+            "miles": "55826"
+        },
+        {
+            "vehicleId": 3,
+            "make": "Ford",
+            "model": "F-150",
+            "year": 2022,
+            "color": "Red",
+            "available": true,
+            "customerId": 4,
+            "miles": ""
+        },
+        {
+            "vehicleId": 4,
+            "make": "Chevrolet",
+            "model": "Malibu",
+            "year": 2019,
+            "color": "White",
+            "available": false,
+            "customerId": 2,
+            "miles": ""
+        },
+        {
+            "vehicleId": 5,
+            "make": "Tesla",
+            "model": "model 3",
+            "year": 2023,
+            "color": "Silver",
+            "available": true,
+            "customerId": 5,
+            "miles": ""
+        },
+        {
+            "VehicleId": 6,
+            "make": "BMW",
+            "model": "iX M70",
+            "year": 2025,
+            "color": "Black",
+            "available": true,
+            "customerId": 1,
+            "miles": ""
+        }
+    ]
+}

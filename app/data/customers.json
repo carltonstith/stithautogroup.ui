@@ -1,0 +1,76 @@
+{
+    "CustomerDataTable": [
+        {
+            "customerId": 1,
+            "firstName": "John",
+            "lastName": "Doe",
+            "phoneNumber": "555-1234",
+            "email": "john.doe@example.com",
+            "address": "123 Elm St",
+            "city": "Springfield",
+            "state": "IL",
+            "country": "USA",
+            "zipCode": "62704"
+        },
+        {
+            "customerId": 2,
+            "firstName": "Jane",
+            "lastName": "Smith",
+            "phoneNumber": "555-5678",
+            "email": "jane.smith@example.com",
+            "address": "456 Oak Ave",
+            "city": "Chicago",
+            "state": "IL",
+            "country": "USA",
+            "zipCode": "60616"
+        },
+        {
+            "customerId": 3,
+            "firstName": "Michael",
+            "lastName": "Johnson",
+            "phoneNumber": "555-8765",
+            "email": "michael.johnson@example.com",
+            "address": "789 Pine Dr",
+            "city": "Indianapolis",
+            "state": "IN",
+            "country": "USA",
+            "zipCode": "46202"
+        },
+        {
+            "customerId": 4,
+            "firstName": "Emily",
+            "lastName": "Davis",
+            "phoneNumber": "555-4321",
+            "email": "emily.davis@example.com",
+            "address": "321 Birch Rd",
+            "city": "Columbus",
+            "state": "OH",
+            "country": "USA",
+            "zipCode": "43215"
+        },
+        {
+            "customerId": 5,
+            "firstName": "Robert",
+            "lastName": "Miller",
+            "phoneNumber": "555-9876",
+            "email": "robert.miller@example.com",
+            "address": "654 Maple Ln",
+            "city": "Milwaukee",
+            "state": "WI",
+            "country": "USA",
+            "zipCode": "53202"
+        },
+        {
+            "customerId": 9,
+            "firstName": "Millionaire",
+            "lastName": "Love",
+            "phoneNumber": "2155551212",
+            "email": "cstith@gmail.com",
+            "address": "555 Main St",
+            "city": "Anytown",
+            "state": "JA",
+            "country": "JA",
+            "zipCode": "12345"
+        }
+    ]
+}
