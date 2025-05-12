@@ -1,6 +1,6 @@
 "use client";
 import { useEffect, useState } from "react";
-import vehicleData from "../data/vehicles.json"; // Importing the JSON file for type checking
+import vehicleData from "../../data/vehicles.json"; // Importing the JSON file for type checking
 import Link from "next/link";
 
 const API_URL = "https://localhost:7207/api/Vehicle";

@@ -1,6 +1,6 @@
 "use client";
 import { useEffect, useState } from "react";
-import customerData from "../data/customers.json"; // Importing the JSON file for type checking
+import customerData from "../../data/customers.json"; // Importing the JSON file for type checking
 
 // const API_URL = process.env.NEXT_PUBLIC_API_URL;
 const API_URL = "https://localhost:7207/api/Customer";

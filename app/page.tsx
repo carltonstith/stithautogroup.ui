@@ -1,5 +1,5 @@
-import CustomerPage from "./customer/page";
-import VehiclePage from "./vehicle/page";
+import CustomerPage from "./(dashboard)/customer/page";
+import VehiclePage from "./(dashboard)/vehicle/page";
 
 export default function Home() {
 
