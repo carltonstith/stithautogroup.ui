@@ -32,7 +32,6 @@ export default function VehiclePage() {
                 console.error("Error fetching vehicles:", error);
             }
         };
-
         //fetchVehicles();
     }, []);
     return (

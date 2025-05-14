@@ -1,6 +1,13 @@
 @import "tailwindcss";
 @plugin "daisyui";
 
+@theme {
+  --color-green: #d9f7e9;
+  --color-yellow: #fffbe6;
+  --color-purple: #f0e6ff;
+  --color-pink: #fff0f6;
+}
+
 /* :root {
   --background: #ffffff;
   --foreground: #171717;

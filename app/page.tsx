@@ -1,5 +1,6 @@
 import CustomerPage from "./(dashboard)/customer/page";
 import VehiclePage from "./(dashboard)/vehicle/page";
+import LoginPage from "./login/page";
 
 export default function Home() {
 
@@ -7,10 +8,11 @@ export default function Home() {
     <>
       {/* <CustomerPage />
       <VehiclePage /> */}
-      <div className="container mx-auto p-4">
-        <h1 className="text-2xl font-bold mb-4">Stith Auto Group API</h1>
-        <CustomerPage />
-        <VehiclePage />
+      <div className="">
+        {/* <h1 className="text-2xl font-bold mb-4">Stith Auto Group API</h1> */}
+        <LoginPage />
+        {/* <CustomerPage />
+        <VehiclePage /> */}
       </div>
     </>
   );
