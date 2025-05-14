@@ -81,7 +81,6 @@ const FinanceChart = () => {
       <div className="flex justify-between items-center">
         <h1 className="text-lg font-semibold">Finance</h1>
         <IoIosMore size={20} />
-        {/* <Image src="/moreDark.png" alt="" width={20} height={20} /> */}
       </div>
       <ResponsiveContainer width="100%" height="90%">
         <LineChart

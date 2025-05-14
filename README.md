@@ -1,6 +1,9 @@
 This UI is used as the front-end for the StithAutoGroup.API project.
 
-The GitHub repo is located here.
+![alt text](https://raw.githubusercontent.com/carltonstith/stithautogroup.ui/master/stith-auto-group.png "Stith Auto Group")
+
+[GitHub repo](https://github.com/carltonstith/stithautogroup.ui).
+[Azure DevOps repo](https://dev.azure.com/aseniordev/StithAutoGroup)
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
